@@ -1,0 +1,16 @@
+title: "Kompiuterinės regos metodų taikymas automatiniam pažeistos miško medžių lajos (lapų) klasifikavimui"
+logo: /assets/img/tree.png
+description: "
+<b>Magistro projekto informacinė sistema</b><br><br>
+<b>Studentas:</b> <br>Tomas Poška<br>
+<b>Užsakovas:</b> <br>Dr. Rytis Maskeliūnas<br>
+<b>Užsakovo įstaiga:</b> <br>Kauno technologijos universitetas<br>
+<b>Vadovas:</b> <br>Dr. Rytis Maskeliūnas<br><br>
+
+<a href='https://github.com/tmspsk/Automatinio_misko_medziu_ligu_klasifikavimo_IS'>GitHub saugykla</a><br>
+<a href='https://github.com/tmspsk/ammlk/discussions'>Diskusijų nuoroda</a><br><br>
+"
+show_downloads: false
+github:
+  is_project_page: false
+theme: jekyll-theme-minimal
