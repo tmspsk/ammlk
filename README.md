@@ -7,6 +7,7 @@
 
 ## Turinys
 * [Anotacija](#anotacija)
+* [Annotation](#annotation)
 * [Magistro projekto įgyvendinimo akademinis grafikas](#grafikas)
 
 <a id='anotacija'></a>
@@ -14,6 +15,12 @@
 Šiame darbe bus gilinamasi į kompiuterinės regos metodų taikymą sprendžiant automatinio pažeistos miško medžių lajos (lapų) klasifikavimo problemą. Naudojant tradicinių kompiuterinės regos algoritmų ir naujausių gilaus mokymosi metodų derinį, tyrimu siekiama sukurti patikimą ir tikslią sistemą, skirtą automatizuotam ligų aptikimui ir klasifikavimui miško ekosistemose. Tyrimo metu bus analizuojami išsamūs miško vaizdų duomenų rinkiniai, kuriuose gali būti užfiksuotos įvairios medžių rūšys, ligų tipai ar kiti parametrai. Naudojant pažangius vaizdų apdorojimo metodus ir konvoliucinius neuroninius tinklus (CNN), gali būti siekiama sukurti patikimą modelį, skirtą nustatyti ir klasifikuoti medžių ligas ar kitus aspektus pagal vizualinius požymius. Tyrimo metu bus analizuojami anksčiau atlikti susiję tyrimai, taip  pat, kitų sričių tyrimai, kurių sprendimų metodus galima būtų taikyti klasifikavimo problemai spręsti, nagrinėjami jų sprendimai, tobulinimo ir pritaikymo galimybės. Tyrimas prisideda prie ankstyvojo ligų nustatymo ir stebėsenos miškuose pažangos, prie tvarios miškotvarkos ir skatina vertingų ekosistemų išsaugojimą.
 
 **Raktiniai žodžiai:** Medžių ligų nustatymas, miško ekosistemos, kompiuterinė rega, dirbtinis intelektas, konvoliuciniai neuroniniai tinklai, klasifikavimas
+
+<a id='annotation'></a>
+## Annotation
+This work will explore the application of computer vision methods to solve the problem of automatic classification of damaged forest tree crowns (leaves). By combining traditional computer vision algorithms and the latest deep learning methods, the research aims to develop a reliable and accurate system for the automated detection and classification of diseases in forest ecosystems. The study will analyze comprehensive datasets of forest images that may capture various tree species, types of diseases or other parameters. Advanced image processing techniques and convolutional neural networks (CNNs) can be applied to create a reliable model for identifying and classifying tree diseases or other aspects based on visual features. The research will examine previous related studies and research from other fields whose solution methods could be applied to address the classification problem. The examination will involve investigating their solutions, possible improvements and potential applications. This study contributes to the advancement of early disease detection and monitoring of forests, sustainable forest management and encourages the preservation of valuable ecosystems.
+
+**Keywords:** Tree disease detection, forest ecosystems, computer vision, artificial intelligence, convolutional neural networks, CNN, classification
 
 <a id='grafikas'></a>
 ## Magistrinio projekto įgyvendinimo akademinis grafikas
