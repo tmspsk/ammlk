@@ -32,7 +32,7 @@ This work will explore the application of computer vision methods to solve the p
 | 3 | Projekto paraiška (30% pažymio) Tiriamasis projektas 1 | Gruodžio  6 | 1 | [Nuoroda į Failą](https://github.com/tmspsk/ammlk/blob/main/assets/docs/Poska_parai%C5%A1ka.pdf) |
 | 4 | Projektavimo planas (20% pažymio) Tiriamasis projektas 1 | Gruodžio 20 | 1 | [Nuoroda į Failą](https://github.com/tmspsk/ammlk/blob/main/assets/docs/poska.planas.mpp) |
 | 5 | Reikalavimų specifikavimas (projekto ataskaita, 25% paž.) Tiriamasis projektas 2 | Kovo 15 | 2 | [Nuoroda į Failą](https://github.com/tmspsk/ammlk/blob/main/assets/docs/poska_reikalavimai.pdf) |
-| 6 | Architektūros specifikavimas (projekto ataskaita, 35% paž.) Tiriamasis projektas 2 | Balandžio 17 | 2 | |
+| 6 | Architektūros specifikavimas (projekto ataskaita, 35% paž.) Tiriamasis projektas 2 | Balandžio 17 | 2 | [Nuoroda į Failą](https://github.com/tmspsk/ammlk/blob/main/assets/docs/poska_architektura.pdf) |
 | 7 | Darbų  viešo pristatymo medžiagos paruošimas (projekto ataskaita, 10% paž.) Tiriamasis projektas 2 | Gegužės 8 | 2 | |
 | 8 | Prototipas 1 (inžinerinis projektas, 30% paž.) Tiriamasis projektas 2 T000M242 | Gegužės 22 | 2 | |
 | 9 | Magistrinio projekto programų sistemos testavimo planavimas (vertinama ataskaita 25 % pažymio) Tiriamasis projektas 3  T000M250 | Spalio 02 | 3 | |
